@@ -1,0 +1,25 @@
+{
+    "criteria" : [
+        "MACCHIE SCURE",
+        "IDRATAZIONE",
+        "PORI",
+        "TEXTURE DELLA PELLE",
+        "TONO",
+        "RUGHE"
+    ],
+    "indicator" : 
+        {
+            "str" : "La tua forza",
+            "strLength" : 11,
+            "prt" : "La tua priorità",
+            "prtLength" : 13.3,
+            "ppt" : "La tua preoccupazione",
+            "pptLength" : 18.8,
+            "str&ppt" : "La tua forza e\preoccupazione" ,
+            "str&pptLength" : 14,
+            "prt&ppt" : "La tua priorità e\preoccupazione",
+            "prt&pptLength" : 15.5,
+            "font" : "arialbd.ttf"
+        }
+    
+}

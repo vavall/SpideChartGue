@@ -1,0 +1,25 @@
+{
+    "criteria" : [
+        "MANCHAS OSCURAS",
+        "HIDRATACIÓN",
+        "POROS",
+        "TEXTURA DE LA PIEL",
+        "FIRMEZA",
+        "ARRUGAS"
+    ],
+    "indicator" : 
+        {
+            "str" : "Tu fortaleza",
+            "strLength" : 11,
+            "prt" : "Tu prioridad",
+            "prtLength" : 13.3,
+            "ppt" : "Tu preocupación",
+            "pptLength" : 18.8,
+            "str&ppt" : "Tu fortaleza y ​​\npreocupación" ,
+            "str&pptLength" : 14,
+            "prt&ppt" : "Tu prioridad y\npreocupación",
+            "prt&pptLength" : 15.5,
+            "font" : "arialbd.ttf"
+        }
+    
+}

@@ -1,0 +1,25 @@
+{
+    "criteria" : [
+        "PIGMENT SPOTS",
+        "HYDRATATION",
+        "PORES",
+        "SKIN GRAIN",
+        "FIRMNESS",
+        "WRINKLES"
+    ],
+    "indicator" : 
+        {
+            "str" : "Your strength",
+            "prt" : "Your priority",
+            "ppt" : "Your concern",
+            "str&ppt" : "Your strength \nYour concern",
+            "prt&ppt" : "Your priority \nYour concern",
+            "strLength" : 13,
+            "prtLength" : 13,
+            "pptLength" : 13,
+            "str&pptLength" : 13.5,
+            "prt&pptLength" : 13.5,
+            "font" : "arialbd.ttf"
+        }
+    
+}

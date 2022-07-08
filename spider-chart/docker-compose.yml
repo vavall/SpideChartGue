@@ -1,0 +1,15 @@
+---
+  version: '3'
+  services:
+    php-server:
+      build:
+         context: .
+         dockerfile: "./Dockerfile"
+      container_name: php-server
+      depends_on:
+        - quickchart
+      ports:
+        - "8081:80"
+    quickchart:
+      image: ianw/quickchart
+      container_name: quickchart

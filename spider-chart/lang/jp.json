@@ -1,0 +1,25 @@
+{
+    "criteria" : [
+        "シミ",
+        "潤いとハリ",
+        "毛穴",
+        "肌の質感",
+        "ハリ",
+        "シワ"
+    ],
+    "indicator" : 
+        {
+            "str" : "お肌の強み",
+            "prt" : "優先事項",
+            "ppt" : "お肌の悩み",
+            "str&ppt" : "お肌の強み\nお肌の悩み",
+            "prt&ppt" : "優先事項\nお肌の悩み",
+            "strLength" : 11,
+            "prtLength" : 9.5,
+            "pptLength" : 11,
+            "str&pptLength" : 11,
+            "prt&pptLength" : 11,
+            "font" : "SimHei.ttf"
+        }
+    
+}

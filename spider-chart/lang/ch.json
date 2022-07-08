@@ -1,0 +1,25 @@
+{
+    "criteria" : [
+        "暗斑",
+        "保湿与紧致",
+        "毛孔",
+        "肌肤纹理",
+        "紧致",
+        "皱纹"
+    ],
+    "indicator" : 
+        {
+            "str" : "您的优点",
+            "prt" : "您的重中之重",
+            "ppt" : "您的问题",
+            "str&ppt" : "您的优点\n您的问题" ,
+            "prt&ppt" : "您的重中之重\n您的问题",
+            "strLength" : 9,
+            "prtLength" : 13,
+            "pptLength" : 9,
+            "str&pptLength" : 8.5,
+            "prt&pptLength" : 9.5,
+            "font" : "SimHei.ttf"
+        }
+    
+}

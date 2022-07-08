@@ -1,0 +1,25 @@
+{
+    "criteria" : [
+        "TÂCHES PIGMENTAIRES",
+        "HYDRATATION",
+        "PORES",
+        "GRAIN DE PEAU",
+        "FERMETÉ",
+        "RIDES"
+    ],
+    "indicator" : 
+        {
+            "str" : "Votre force",
+            "strLength" : 11,
+            "prt" : "Votre priorité",
+            "prtLength" : 13.3,
+            "ppt" : "Votre préoccupation",
+            "pptLength" : 18.8,
+            "str&ppt" : "Votre force et\npréoccupation" ,
+            "str&pptLength" : 14,
+            "prt&ppt" : "Votre priorité et\npréoccupation",
+            "prt&pptLength" : 15.5,
+            "font" : "arialbd.ttf"
+        }
+    
+}
