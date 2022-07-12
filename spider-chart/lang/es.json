@@ -10,15 +10,15 @@
     "indicator" : 
         {
             "str" : "Tu fortaleza",
-            "strLength" : 11,
+            "strLength" : 13,
             "prt" : "Tu prioridad",
-            "prtLength" : 13.3,
+            "prtLength" : 13,
             "ppt" : "Tu preocupación",
-            "pptLength" : 18.8,
-            "str&ppt" : "Tu fortaleza y ​​\npreocupación" ,
+            "pptLength" : 16,
+            "str&ppt" : "Tu fortaleza y\npreocupación" ,
             "str&pptLength" : 14,
             "prt&ppt" : "Tu prioridad y\npreocupación",
-            "prt&pptLength" : 15.5,
+            "prt&pptLength" : 14,
             "font" : "arialbd.ttf"
         }
     
